@@ -1,0 +1,32 @@
+body {
+
+}
+header {
+    background-color: khaki;
+    position: relative;
+    padding: auto;
+}
+h1 {
+    color: maroon;
+    margin: auto;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+
+}
+.mode {
+    color: powderblue;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: tan;
+}
+div {
+    background-color: chocolate;
+    color: moccasin;
+
+}
