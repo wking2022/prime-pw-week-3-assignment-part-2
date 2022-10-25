@@ -1,5 +1,5 @@
 body {
-
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 header {
     background-color: khaki;
@@ -13,6 +13,7 @@ h1 {
 }
 h2 {
     text-align: center;
+    text-decoration-line: underline;
 }
 h3 {
 
@@ -28,5 +29,15 @@ p {
 div {
     background-color: chocolate;
     color: moccasin;
+    position: relative;
+    padding: 55px;
 
+}
+img {
+    border: 10px solid teal;
+    width: 78%;
+    height: auto;
+    margin: 50px;
+    padding: 100px;
+    text-align: center;
 }
